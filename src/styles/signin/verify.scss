@@ -1,0 +1,16 @@
+.verify-character {
+    background-color: #181D25;
+    border-radius: 12px;
+    border: 1px solid rgba(88, 63, 153, 0.2);
+    color: #B599FF;
+    font-family: "ManropeRegular";
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 32px;
+}
+
+.verify-character-selected {
+    border: 2px solid #B599FF;
+    outline: none;
+}

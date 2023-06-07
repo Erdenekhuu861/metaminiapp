@@ -1,0 +1,39 @@
+.button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-radius: 12px;
+    border: 0;
+}
+
+.button-inline {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border: 1px solid rgba(255, 255, 255, 0.24);
+    border-radius: 12px;
+    background-color: transparent;
+}
+
+.disabled-button {
+    color: rgba(220, 207, 255, 0.24);
+}
+
+.btn-text {
+    border: 0;
+}
+
+.button-step {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    border-radius: 12px;
+    border: 0;
+}
